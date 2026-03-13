@@ -35,7 +35,7 @@ Now get up the directory
 `cd ..`
 
 And run
-
+`cmake .`
 `make` 
 
 After building the project there will be executable called `ProjectImage` created.
